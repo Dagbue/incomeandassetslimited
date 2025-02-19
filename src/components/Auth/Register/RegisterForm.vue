@@ -64,7 +64,7 @@
                   required
               />
             </div>
-            {{this.url}}
+<!--            {{this.url}}-->
 
             <div class="form-group-3">
               <label style="color: #0f171c;font-size: 14px;" class="id">Identification Card (Upload back of ID card for verification)</label>
