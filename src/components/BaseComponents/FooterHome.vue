@@ -83,24 +83,24 @@
       </div>
       <div class="section-part">
 
-        <a href="https://coinmarketcap.com/">
-          <img src="https://infiniteprotrades.com/assets/home/wp-content/uploads/2020/03/bitcoin-1.svg" />
+        <a href="">
+          <img src="https://primexbt.com/_next/static/media/crystal.ce2c822d.svg" class="footer-partner" />
         </a>
 
         <a href="">
-          <img src="https://infiniteprotrades.com/assets/home/wp-content/uploads/2020/03/mastercard-1.svg" />
+          <img src="@/assets/CRPC.png" class="footer-partner"  />
         </a>
 
         <a href="">
-          <img src="@/assets/bankwire.svg" />
+          <img src="@/assets/Expat-Journal.png" class="footer-partner"  />
         </a>
 
-<!--        <a href="">-->
-<!--          <img src="@/assets/usdt.png" style="width: 23%;" />-->
-<!--        </a>-->
+        <!--        <a href="">-->
+        <!--          <img src="@/assets/usdt.png" style="width: 23%;" />-->
+        <!--        </a>-->
 
-        <a href="https://crypto.com/">
-          <img src="https://infiniteprotrades.com/assets/home/wp-content/uploads/2020/03/america-express.svg" />
+        <a href="">
+          <img src="https://primexbt.com/_next/static/media/fireblocks.64d070a3.svg" class="footer-partner" />
         </a>
 
       </div>
@@ -117,7 +117,7 @@
       </div>
       <hr/>
       <div class="copyright">
-        <p>All rights reserved. Copyright © 2016 - 2024</p>
+        <p>All rights reserved. Copyright © 2016 - 2025</p>
       </div>
     </div>
   </div>
@@ -289,8 +289,10 @@ a:hover{
 }
 
 img{
-  width: 85%;
-  padding-right: 20px;
+  width: 55%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 a{
@@ -302,8 +304,6 @@ a{
   justify-content: center;
   align-items: center;
   align-content: center;
-  padding-top: 30px;
-  padding-bottom: 15px;
   padding-left: 2%;
   /*background: #393939;*/
   margin-top: 2%;

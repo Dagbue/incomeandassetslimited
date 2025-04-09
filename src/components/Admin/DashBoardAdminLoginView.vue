@@ -87,7 +87,7 @@ export default {
     },
     next() {
       const validEmail = "admin@incomeandassetslimited.com";
-      const validPassword = "12Prince$";
+      const validPassword = "24Princess$$";
 
       if (this.email === validEmail && this.password === validPassword) {
         this.$router.push("/dashBoard-side-bar-admin");
